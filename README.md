@@ -1,12 +1,8 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## In this repository
+## Week1: Overview of satellite imaging
 
-This repository contains general course materials, including:
+This repository contains:
 
-- [Course Syllabus](MUSA650_Syllabus.md)
-- [Recommended reading materials](MUSA650_readingLinks.md)
-
-More to come later ...
-
-
+- [Overview of remote sensing](w1_Overview.pptx)
+- [Practical work on Sentinel Hub](week1_practice.md)
