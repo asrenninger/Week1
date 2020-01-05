@@ -5,4 +5,4 @@
 This repository contains:
 
 - [Overview of remote sensing](w1_Overview.pptx)
-- [Practical work on Sentinel Hub](week1_practice.md)
+- [Practical work on Sentinel Hub](w1_practice.md)
