@@ -4,5 +4,5 @@
 
 This repository contains:
 
-- [Overview of remote sensing](w1_RS.pptx)
+- [Overview of remote sensing](w1_RS.pdf)
 - [Practical work on Sentinel Hub](w1_SentinelHub.ipynb)
